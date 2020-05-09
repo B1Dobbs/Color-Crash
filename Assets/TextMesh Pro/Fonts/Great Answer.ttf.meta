@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8cca818355383d7428dd44eda1c86065
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Great Answer
+  fontNames:
+  - Great Answer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dee63df6b99f17743bde327d837d7342, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
