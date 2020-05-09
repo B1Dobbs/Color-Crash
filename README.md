@@ -5,4 +5,4 @@ It starts out with just primary colors then slowly introduces secondary then ter
 
 Plans to expand include a color paint store and different play modes. 
 
-![Example](docs/videoExample.gif)
+![Example](docs/videoExample.mp4)
