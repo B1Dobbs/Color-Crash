@@ -5,4 +5,6 @@ It starts out with just primary colors then slowly introduces secondary then ter
 
 Plans to expand include a color paint store and different play modes. 
 
-![Example](docs/ColorCrashDemo.gif)
+<p align="center">
+<img src="docs/ColorCrashDemo.gif" width="200" height="400" />
+</p>
